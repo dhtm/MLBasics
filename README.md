@@ -1,2 +1,2 @@
 # MLBasics
-MLBasics is a repository of exercises and tutorials for Machine Learning and Deep Learning courses.
+MLBasics is a repository of exercises and tutorials for Machine Learning courses, especially Deep Learning courses.
